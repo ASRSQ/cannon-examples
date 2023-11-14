@@ -24,3 +24,9 @@ npm install cannon-es
 ```bash
 npm install --save-dev vite
 ```
+## Rode o código
+
+```bash
+npx vite
+```
+
