@@ -1,6 +1,6 @@
-# Meu Projeto Incrível
+# Exemplos aula cannon-es
 
-Bem-vindo ao meu projeto incrível! Este projeto faz uso do poderoso trio `three.js`, `vite`, e `cannon-es`. Siga as instruções abaixo para configurar o ambiente de desenvolvimento.
+Nesse repositório estão os exemplos que mostrei na aula do dia 13/11.
 
 ## Instalação
 
@@ -10,3 +10,11 @@ Certifique-se de ter o Node.js instalado antes de prosseguir.
 
 ```bash
 npm install --save three
+
+### Instalar cannon-es
+
+```bash
+npm install cannon-es
+
+### Instalar vite
+npm install --save-dev vite
